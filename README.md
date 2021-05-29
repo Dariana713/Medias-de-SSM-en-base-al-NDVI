@@ -11,6 +11,8 @@ library(mapview)
 #Variable Topografi
 #Km_Topografic <- raster("C:/Users/Usuario/Documents/Análisis de Tesis en Rstudio y SAGA GIS/Variables/Georfometria R_SAGA GIS/4 ATRIBUTOS TOPOGRAFICOS/Mask de kmeans/Mask_kmeans_topografic.tif")
 #plot(Km_Topografic)
+![image](https://user-images.githubusercontent.com/78845785/120053776-6aedde80-c02c-11eb-97be-715696df8d48.png)
+
 
 ![image](https://user-images.githubusercontent.com/78845785/120049147-623fdd00-c019-11eb-9363-07e7dad220c3.png)
 ![image](https://user-images.githubusercontent.com/78845785/120049181-78e63400-c019-11eb-930b-e8dc2bc7a909.png)
