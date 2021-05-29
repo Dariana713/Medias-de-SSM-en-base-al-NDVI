@@ -79,6 +79,9 @@ plot(diaSSM_12_21na_true)
 mapview(diaSSM_12_21na_true)
 ![image](https://user-images.githubusercontent.com/78845785/120049562-a41d5300-c01a-11eb-84af-e74ad7c9a3a3.png)
 
+### Al aplicar la mascara en las zonas de mayor altitud no hay datos de humedad!!!
+![image](https://user-images.githubusercontent.com/78845785/120053951-7097f400-c02d-11eb-82f7-1d6a55d14133.png)
+
 
 #10 dias antes del 1 + el 1 enero 2020 (diciembre tiene 31 dias)
 diaSSM_22_1na_true <- calc(ssm_pro[[11:21]], mean, na.rm=TRUE)
