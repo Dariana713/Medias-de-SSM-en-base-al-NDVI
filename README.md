@@ -82,6 +82,9 @@ mapview(diaSSM_12_21na_true)
 ### Al aplicar la mascara en las zonas de mayor altitud no hay datos de humedad!!!
 ![image](https://user-images.githubusercontent.com/78845785/120053951-7097f400-c02d-11eb-82f7-1d6a55d14133.png)
 
+![image](https://user-images.githubusercontent.com/78845785/120491108-42ae0900-c3b9-11eb-8058-7861b404f0af.png)
+https://land.copernicus.eu/global/products/ssm
+
 
 #10 dias antes del 1 + el 1 enero 2020 (diciembre tiene 31 dias)
 diaSSM_22_1na_true <- calc(ssm_pro[[11:21]], mean, na.rm=TRUE)
